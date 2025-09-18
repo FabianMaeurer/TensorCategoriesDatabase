@@ -1,10 +1,12 @@
-# Meta data for Skeletization of Drinfeld center of Fusion Category 2_1_0_1_1_2_1
+# Meta data for Skeletonization of Drinfeld center of Fusion Category 2_1_0_1_1_2_1
 
 Dict(
 
-	"name" => "Skeletization of Drinfeld center of Fusion Category 2_1_0_1_1_2_1",
+	"name" => "Skeletonization of Drinfeld center of Fusion Category 2_1_0_1_1_2_1",
 	"field" => number_field(polynomial(QQ,QQFieldElem[1, 0, 1]))[1],
 	"rank"=> 4,
+	"multiplicity" => 1,
+	"embedding" => AcbField()("0") + AcbField()("-1.00000000000000000000000000000000000000000000000000000000000000000000000000000")*AcbField()(im),
 
 	"simples_names" => ["(𝟙, γ1)", "(X2, γ1)", "(X2, γ2)", "(𝟙, γ2)"],
 

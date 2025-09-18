@@ -5,6 +5,8 @@ Dict(
 	"name" => "Skeletization of Drinfeld center of Fusion Category 4_1_2_4_3_0_1",
 	"field" => number_field(polynomial(QQ,QQFieldElem[1, 0, 0, 0, 1]))[1],
 	"rank"=> 14,
+	"multiplicity" => 2,
+	"embedding" => AcbField()("[0.707106781 +/- 7.40e-10]") + AcbField()("[0.707106781 +/- 7.40e-10]")*AcbField()(im),
 
 	"simples_names" => ["(𝟙, γ)", "(X2, γ)", "(X3, γ1)", "(X3, γ2)", "(X4, γ1)", "(X4, γ2)", "(𝟙 ⊕ X4, γ)", "(𝟙 ⊕ X3, γ)", "(X2 ⊕ X3, γ)", "(X2 ⊕ X4, γ)", "(X3 ⊕ X4, γ1)", "(X3 ⊕ X4, γ2)", "(𝟙 ⊕ X3 ⊕ X4, γ)", "(X2 ⊕ X3 ⊕ X4, γ)"],
 

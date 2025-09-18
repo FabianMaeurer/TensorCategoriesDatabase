@@ -5,6 +5,8 @@ Dict(
 	"name" => "Skeletization of Drinfeld center of Fusion Category 1_1_0_1_1_1_1",
 	"field" => QQ,
 	"rank"=> 1,
+	"multiplicity" => 1,
+	"embedding" => AcbField()("1.00000000000000000000000000000000000000000000000000000000000000000000000000000") + AcbField()("0")*AcbField()(im),
 
 	"simples_names" => ["(𝟙, γ)"],
 
